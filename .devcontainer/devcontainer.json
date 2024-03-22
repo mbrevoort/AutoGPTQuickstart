@@ -1,0 +1,6 @@
+{
+	"name": "AutoGPTQuickstart",
+	"image": "mcr.microsoft.com/vscode/devcontainers/python",
+	// Features to add to the dev container. More info: https://containers.dev/features.
+	"features": {}
+}
